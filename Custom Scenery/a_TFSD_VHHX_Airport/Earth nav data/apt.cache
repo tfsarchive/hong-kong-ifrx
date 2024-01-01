@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<apt sam="false" revision="4" sam_path="C:\Program Files\X-plane 11\Custom Scenery\a_TFSD_VHHX_Airport\sam.xml">
+	<airport name="Hong Kong Intl (old)" icao="VHHX" iata="HKG" elevation="0" latitude="4.8356441826552153e+185" longitude="4.6476127909323238e+151">
+		<startup_location latitude="22.327143" longitude="114.194019" heading="314.10000000000002" name="2" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.328534999999999" longitude="114.19544500000001" heading="313" name="5" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.326357000000002" longitude="114.195787" heading="313.60000000000002" name="15" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.327244" longitude="114.196685" heading="314.10000000000002" name="19" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.32556348" longitude="114.19757248000001" heading="90.299999999999997" name="23" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.326110839999998" longitude="114.19810093" heading="89.799999999999997" name="24" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.327162000000001" longitude="114.19902399999999" heading="89.400000000000006" name="26" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.324306849999999" longitude="114.19682926" heading="358.10000000000002" name="27" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.324774999999999" longitude="114.197411" heading="358.10000000000002" name="28" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.326312000000001" longitude="114.199018" heading="357.89999999999998" name="31" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.326872999999999" longitude="114.199613" heading="358.10000000000002" name="32" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.324047" longitude="114.19902399999999" heading="108.2" name="37" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.324415999999999" longitude="114.199237" heading="107.3" name="38" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.329979000000002" longitude="114.20430500000001" heading="122.3" name="47" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.331509" longitude="114.204234" heading="91" name="49" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.333136" longitude="114.20414599999999" heading="90.599999999999994" name="51" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.334014" longitude="114.20413600000001" heading="89.599999999999994" name="52" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.329297" longitude="114.20083200000001" heading="92.900000000000006" name="61" airline_code="" type="gate" width_code="c" operation_type="none">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.321247" longitude="114.203913" heading="44.200000000000003" name="73" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.317852999999999" longitude="114.207758" heading="43.899999999999999" name="80" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.31738" longitude="114.20829500000001" heading="44" name="81" airline_code="" type="gate" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.327417000000001" longitude="114.2022" heading="133.90000000000001" name="Cargo Ramp 42" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.327773000000001" longitude="114.202625" heading="133.59999999999999" name="Cargo Ramp 43" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.328596999999998" longitude="114.203472" heading="133.69999999999999" name="Cargo Ramp 45" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.328745000000001" longitude="114.20130399999999" heading="312.69999999999999" name="Cargo Ramp 55" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.329778999999998" longitude="114.202366" heading="313" name="Cargo Ramp 57" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.330271" longitude="114.20254199999999" heading="155.90000000000001" name="Cargo Ramp 58" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.331866000000002" longitude="114.201493" heading="9.5" name="Cargo Ramp 82" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.331301" longitude="114.19990799999999" heading="336.39999999999998" name="Cargo Ramp 84" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<startup_location latitude="22.332128999999998" longitude="114.20222" heading="9.5999999999999996" name="Cargo Ramp 85" airline_code="" type="misc" width_code="e" operation_type="none">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+		</startup_location>
+		<taxi_routing_network>
+			<taxi_routing_node latitude="22.329912" longitude="114.20375344" type="both" id="0" name="0 ER_stop" />
+			<taxi_routing_node latitude="22.330026180000001" longitude="114.20241461000001" type="both" id="1" name="1 ER_stop" />
+			<taxi_routing_node latitude="22.329942150000001" longitude="114.20208845000001" type="both" id="2" name="2 ER_stop" />
+			<taxi_routing_node latitude="22.32913065" longitude="114.20470582" type="both" id="3" name="3 ER_stop" />
+			<taxi_routing_node latitude="22.329498999999998" longitude="114.19877495" type="both" id="4" name="4 ER_stop" />
+			<taxi_routing_node latitude="22.327572880000002" longitude="114.20082518" type="both" id="5" name="5 ER_stop" />
+			<taxi_routing_node latitude="22.328133300000001" longitude="114.20023238" type="both" id="6" name="6 ER_split" />
+			<taxi_routing_node latitude="22.326968269999998" longitude="114.20124359" type="both" id="7" name="7 ER_stop" />
+			<taxi_routing_node latitude="22.326420330000001" longitude="114.20156359000001" type="both" id="8" name="8 ER_stop" />
+			<taxi_routing_node latitude="22.32660173" longitude="114.20192516" type="both" id="9" name="9 ER_stop" />
+			<taxi_routing_node latitude="22.32877191" longitude="114.2041796" type="both" id="10" name="10 ER_stop" />
+			<taxi_routing_node latitude="22.33140818" longitude="114.20473891" type="both" id="11" name="11 ER_stop" />
+			<taxi_routing_node latitude="22.329448360000001" longitude="114.20471044" type="both" id="12" name="12 ER_split" />
+			<taxi_routing_node latitude="22.332161670000001" longitude="114.20468092999999" type="both" id="13" name="13 ER_stop" />
+			<taxi_routing_node latitude="22.332600979999999" longitude="114.20465059" type="both" id="14" name="14 ER_stop" />
+			<taxi_routing_node latitude="22.325126180000002" longitude="114.20063494" type="both" id="15" name="15 H2_start" />
+			<taxi_routing_node latitude="22.324668979999998" longitude="114.20044857000001" type="both" id="16" name="16 H2_stop" />
+			<taxi_routing_node latitude="22.324724589999999" longitude="114.20116749" type="both" id="17" name="17 H2_stop" />
+			<taxi_routing_node latitude="22.324682450000001" longitude="114.20062263" type="both" id="18" name="18 H2_split" />
+			<taxi_routing_node latitude="22.325205360000002" longitude="114.20113481999999" type="both" id="19" name="19 H2_stop" />
+			<taxi_routing_node latitude="22.325216879999999" longitude="114.20131065" type="both" id="20" name="20 H2_stop" />
+			<taxi_routing_node latitude="22.32545438" longitude="114.20127642" type="both" id="21" name="21 H2_start" />
+			<taxi_routing_node latitude="22.31720507" longitude="114.20901472" type="both" id="22" name="22 ER_stop" />
+			<taxi_routing_node latitude="22.317318920000002" longitude="114.20913628" type="both" id="23" name="23 ER_stop" />
+			<taxi_routing_node latitude="22.317398740000002" longitude="114.20905374" type="both" id="24" name="24 ER_stop" />
+			<taxi_routing_node latitude="22.322217479999999" longitude="114.20359798" type="both" id="25" name="25 ER_stop" />
+			<taxi_routing_node latitude="22.32241501" longitude="114.20353004" type="both" id="26" name="26 ER_stop" />
+			<taxi_routing_node latitude="22.322508280000001" longitude="114.20348299" type="both" id="27" name="27 ER_stop" />
+			<taxi_routing_node latitude="22.32260363" longitude="114.20341128" type="both" id="28" name="28 ER_stop" />
+			<taxi_routing_node latitude="22.322703130000001" longitude="114.20330373" type="both" id="29" name="29 ER_stop" />
+			<taxi_routing_node latitude="22.322827119999999" longitude="114.20318433" type="both" id="30" name="30 ER_stop" />
+			<taxi_routing_node latitude="22.322817130000001" longitude="114.20300124000001" type="both" id="31" name="31 ER_stop" />
+			<taxi_routing_node latitude="22.3229121" longitude="114.20269810000001" type="both" id="32" name="32 ER_stop" />
+			<taxi_routing_node latitude="22.322895890000002" longitude="114.20253069" type="both" id="33" name="33 ER_stop" />
+			<taxi_routing_node latitude="22.32292906" longitude="114.20242313999999" type="both" id="34" name="34 ER_stop" />
+			<taxi_routing_node latitude="22.32302026" longitude="114.20225732999999" type="both" id="35" name="35 ER_stop" />
+			<taxi_routing_node latitude="22.323078299999999" longitude="114.20212289" type="both" id="36" name="36 ER_stop" />
+			<taxi_routing_node latitude="22.323691839999999" longitude="114.20060368999999" type="both" id="37" name="37 ER_stop" />
+			<taxi_routing_node latitude="22.323760239999999" longitude="114.20048045" type="both" id="38" name="38 ER_stop" />
+			<taxi_routing_node latitude="22.323897049999999" longitude="114.20030344" type="both" id="39" name="39 ER_stop" />
+			<taxi_routing_node latitude="22.324494009999999" longitude="114.19962002" type="both" id="40" name="40 ER_stop" />
+			<taxi_routing_node latitude="22.324715789999999" longitude="114.19931753" type="both" id="41" name="41 ER_stop" />
+			<taxi_routing_node latitude="22.32479871" longitude="114.19909345000001" type="both" id="42" name="42 ER_stop" />
+			<taxi_routing_node latitude="22.32414863" longitude="114.19638535999999" type="both" id="43" name="43 ER_stop" />
+			<taxi_routing_node latitude="22.324527209999999" longitude="114.19610036" type="both" id="44" name="44 ER_stop" />
+			<taxi_routing_node latitude="22.32487995" longitude="114.19635335" type="both" id="45" name="45 ER_stop" />
+			<taxi_routing_node latitude="22.32466368" longitude="114.19691641" type="both" id="46" name="46 ER_stop" />
+			<taxi_routing_node latitude="22.326661290000001" longitude="114.19896479000001" type="both" id="47" name="47 ER_stop" />
+			<taxi_routing_node latitude="22.32573635" longitude="114.19801634" type="both" id="48" name="48 ER_split" />
+			<taxi_routing_node latitude="22.327465530000001" longitude="114.1981626" type="both" id="49" name="49 ER_stop" />
+			<taxi_routing_node latitude="22.330223530000001" longitude="114.19783653" type="both" id="50" name="50 ER_stop" />
+			<taxi_routing_node latitude="22.330620499999998" longitude="114.19735871" type="both" id="51" name="51 ER_start" />
+			<taxi_routing_node latitude="22.32685794" longitude="114.19253857" type="both" id="52" name="52 ER_stop" />
+			<taxi_routing_node latitude="22.32641229" longitude="114.19302930000001" type="both" id="53" name="53 ER_stop" />
+			<taxi_routing_node latitude="22.326175660000001" longitude="114.19370958" type="both" id="54" name="54 ER_stop" />
+			<taxi_routing_node latitude="22.328907220000001" longitude="114.19652965" type="both" id="55" name="55 ER_stop" />
+			<taxi_routing_node latitude="22.328273719999999" longitude="114.19727245" type="both" id="56" name="56 ER_stop" />
+			<taxi_routing_node latitude="22.329648970000001" longitude="114.19874414" type="both" id="57" name="57 ER_stop" />
+			<taxi_routing_node latitude="22.330022240000002" longitude="114.19889732" type="both" id="58" name="58 ER_stop" />
+			<taxi_routing_node latitude="22.330416069999998" longitude="114.19929591" type="both" id="59" name="59 ER_stop" />
+			<taxi_routing_node latitude="22.33149358" longitude="114.20186765" type="both" id="60" name="60 ER_stop" />
+			<taxi_routing_node latitude="22.33131023" longitude="114.20143004000001" type="both" id="61" name="61 ER_split" />
+			<taxi_routing_node latitude="22.331932349999999" longitude="114.20260981" type="both" id="62" name="62 ER_stop" />
+			<taxi_routing_node latitude="22.332256990000001" longitude="114.20287215" type="both" id="63" name="63 ER_stop" />
+			<taxi_routing_node latitude="22.332593660000001" longitude="114.20291356" type="both" id="64" name="64 ER_stop" />
+			<taxi_routing_node latitude="22.332609479999999" longitude="114.20367168" type="both" id="65" name="65 ER_stop" />
+			<taxi_routing_node latitude="22.328719400000001" longitude="114.19831232" type="both" id="66" name="66 ER_stop" />
+			<taxi_routing_node latitude="22.32858645" longitude="114.19843552" type="both" id="67" name="67 ER_stop" />
+			<taxi_routing_node latitude="22.328480500000001" longitude="114.19848955000001" type="both" id="68" name="68 ER_stop" />
+			<taxi_routing_node latitude="22.328326560000001" longitude="114.19846145" type="both" id="69" name="69 ER_stop" />
+			<taxi_routing_node latitude="22.325947540000001" longitude="114.1955633" type="both" id="70" name="70 ER_stop" />
+			<taxi_routing_node latitude="22.325658499999999" longitude="114.19473854" type="both" id="71" name="71 ER_stop" />
+			<taxi_routing_node latitude="22.325095959999999" longitude="114.19540451" type="both" id="72" name="72 ER_stop" />
+			<taxi_routing_node latitude="22.32762103" longitude="114.19801026" type="both" id="73" name="73 ER_stop" />
+			<taxi_routing_node latitude="22.323267690000002" longitude="114.19677109" type="both" id="102" name="102 B1_split" />
+			<taxi_routing_node latitude="22.324166000000002" longitude="114.195047" type="both" id="111" name="111 13/31 hold short" />
+			<taxi_routing_node latitude="22.325554" longitude="114.19382400000001" type="both" id="115" name="115 13/31 hold short" />
+			<taxi_routing_node latitude="22.308686000000002" longitude="114.212378" type="both" id="137" name="137 13/31 hold short" />
+			<taxi_routing_node latitude="22.319513000000001" longitude="114.199941" type="both" id="192" name="192 13/31 hold short" />
+			<taxi_routing_node latitude="22.304983" longitude="114.216796" type="both" id="199" name="199 13/31 hold short" />
+			<taxi_routing_node latitude="22.328534699999999" longitude="114.19909105000001" type="both" id="219" name="219 C1_split" />
+			<taxi_routing_node latitude="22.324333920000001" longitude="114.19978972" type="both" id="232" name="232 C1_split" />
+			<taxi_routing_node latitude="22.32736397" longitude="114.20096976000001" type="both" id="308" name="308 H1_split" />
+			<taxi_routing_node latitude="22.329992350000001" longitude="114.20346963999999" type="both" id="340" name="340 H1_split" />
+			<taxi_routing_node latitude="22.330019010000001" longitude="114.20318033" type="both" id="341" name="341 H1_split" />
+			<taxi_routing_node latitude="22.332355889999999" longitude="114.20365504999999" type="both" id="350" name="350 _split" />
+			<taxi_routing_node latitude="22.332621549999999" longitude="114.20327921000001" type="both" id="351" name="351 H1_split" />
+			<taxi_routing_node latitude="22.328101199999999" longitude="114.19925191" type="both" id="387" name="387 _split" />
+			<taxi_routing_node latitude="22.328161940000001" longitude="114.19933056000001" type="both" id="388" name="388 C1_split" />
+			<taxi_routing_node latitude="22.3282527" longitude="114.19928415" type="both" id="389" name="389 C1_split" />
+			<taxi_routing_node latitude="22.328449249999998" longitude="114.19918869999999" type="both" id="390" name="390 C1_split" />
+			<taxi_routing_node latitude="22.32656047" longitude="114.19485625999999" type="both" id="408" name="408 D3_split" />
+			<taxi_routing_node latitude="22.327319549999999" longitude="114.19489799999999" type="both" id="410" name="410 _split" />
+			<taxi_routing_node latitude="22.326900689999999" longitude="114.19446379999999" type="both" id="411" name="411 ER_split" />
+			<taxi_routing_node latitude="22.327746659999999" longitude="114.19534231" type="both" id="413" name="413 _split" />
+			<taxi_routing_node latitude="22.32821118" longitude="114.19582705000001" type="both" id="415" name="415 _split" />
+			<taxi_routing_node latitude="22.328730119999999" longitude="114.19636688999999" type="both" id="417" name="417 _split" />
+			<taxi_routing_node latitude="22.32928347" longitude="114.19691807" type="both" id="419" name="419 _split" />
+			<taxi_routing_node latitude="22.32729595" longitude="114.19828798" type="both" id="421" name="421 D2_split" />
+			<taxi_routing_node latitude="22.327162529999999" longitude="114.19838663" type="both" id="427" name="427 _split" />
+			<taxi_routing_node latitude="22.325141240000001" longitude="114.19869997000001" type="both" id="431" name="431 D1_split" />
+			<taxi_routing_node latitude="22.333143509999999" longitude="114.20365712" type="both" id="446" name="446 _split" />
+			<taxi_routing_node latitude="22.331052190000001" longitude="114.20081417999999" type="both" id="450" name="450 _split" />
+			<taxi_routing_node latitude="22.324495089999999" longitude="114.19447559" type="both" id="470" name="470 13/31 hold short" />
+			<taxi_routing_node latitude="22.322340180000001" longitude="114.19678571999999" type="both" id="471" name="471 13/31 hold short" />
+			<taxi_routing_node latitude="22.319410000000001" longitude="114.200277" type="both" id="472" name="472 13/31 hold short" />
+			<taxi_routing_node latitude="22.316253" longitude="114.203751" type="both" id="473" name="473 13/31 hold short" />
+			<taxi_routing_node latitude="22.313139" longitude="114.207255" type="both" id="474" name="474 13/31 hold short" />
+			<taxi_routing_node latitude="22.310020999999999" longitude="114.21077200000001" type="both" id="475" name="475 13/31 hold short" />
+			<taxi_routing_node latitude="22.306940999999998" longitude="114.214422" type="both" id="476" name="476 13/31 hold short" />
+			<taxi_routing_node latitude="22.329234840000002" longitude="114.19830530999999" type="both" id="496" name="496 C1_split" />
+			<taxi_routing_node latitude="22.328580209999998" longitude="114.19694198000001" type="both" id="498" name="498 D3_split" />
+			<taxi_routing_node latitude="22.32681612" longitude="114.19437583" type="both" id="502" name="502 _split" />
+			<taxi_routing_node latitude="22.327005539999998" longitude="114.19738227000001" type="both" id="522" name="522 _split" />
+			<taxi_routing_node latitude="22.326925339999999" longitude="114.19705193999999" type="both" id="523" name="523 _split" />
+			<taxi_routing_node latitude="22.326664090000001" longitude="114.19702814" type="both" id="524" name="524 ER_split" />
+			<taxi_routing_node latitude="22.326807609999999" longitude="114.19717699" type="both" id="525" name="525 ER_split" />
+			<taxi_routing_node latitude="22.325646370000001" longitude="114.19598370999999" type="both" id="526" name="526 ER_split" />
+			<taxi_routing_node latitude="22.325051970000001" longitude="114.19646149" type="both" id="535" name="535 _split" />
+			<taxi_routing_node latitude="22.328745000000001" longitude="114.20130399999999" type="both" id="556" name="556 Cargo Ramp 55" />
+			<taxi_routing_node latitude="22.327143" longitude="114.19401915" type="both" id="557" name="557 2" />
+			<taxi_routing_node latitude="22.331866000000002" longitude="114.201493" type="both" id="558" name="558 Cargo Ramp 82" />
+			<taxi_routing_node latitude="22.317852999999999" longitude="114.207758" type="both" id="559" name="559 80" />
+			<taxi_routing_node latitude="22.334014" longitude="114.20413600000001" type="both" id="560" name="560 52" />
+			<taxi_routing_node latitude="22.325565999999998" longitude="114.197406" type="both" id="561" name="561 23" />
+			<taxi_routing_node latitude="22.31738" longitude="114.20829500000001" type="both" id="562" name="562 81" />
+			<taxi_routing_node latitude="22.329778999999998" longitude="114.202366" type="both" id="563" name="563 Cargo Ramp 57" />
+			<taxi_routing_node latitude="22.328596999999998" longitude="114.203472" type="both" id="564" name="564 Cargo Ramp 45" />
+			<taxi_routing_node latitude="22.328534999999999" longitude="114.19544500000001" type="both" id="565" name="565 5" />
+			<taxi_routing_node latitude="22.324186000000001" longitude="114.19683499999999" type="both" id="566" name="566 27" />
+			<taxi_routing_node latitude="22.321247" longitude="114.203913" type="both" id="567" name="567 73" />
+			<taxi_routing_node latitude="22.327162000000001" longitude="114.19902399999999" type="both" id="568" name="568 26" />
+			<taxi_routing_node latitude="22.324047" longitude="114.19902399999999" type="both" id="569" name="569 37" />
+			<taxi_routing_node latitude="22.330271" longitude="114.20254199999999" type="both" id="570" name="570 Cargo Ramp 58" />
+			<taxi_routing_node latitude="22.329979000000002" longitude="114.20430500000001" type="both" id="571" name="571 47" />
+			<taxi_routing_node latitude="22.327417000000001" longitude="114.2022" type="both" id="572" name="572 Cargo Ramp 42" />
+			<taxi_routing_node latitude="22.326312000000001" longitude="114.199018" type="both" id="573" name="573 31" />
+			<taxi_routing_node latitude="22.327773000000001" longitude="114.202625" type="both" id="574" name="574 Cargo Ramp 43" />
+			<taxi_routing_node latitude="22.331509" longitude="114.204234" type="both" id="575" name="575 49" />
+			<taxi_routing_node latitude="22.324415999999999" longitude="114.199237" type="both" id="576" name="576 38" />
+			<taxi_routing_node latitude="22.326107" longitude="114.19793199999999" type="both" id="577" name="577 24" />
+			<taxi_routing_node latitude="22.324774999999999" longitude="114.197411" type="both" id="578" name="578 28" />
+			<taxi_routing_node latitude="22.326872999999999" longitude="114.199613" type="both" id="579" name="579 32" />
+			<taxi_routing_node latitude="22.329297" longitude="114.20083200000001" type="both" id="580" name="580 61" />
+			<taxi_routing_node latitude="22.332128999999998" longitude="114.20222" type="both" id="581" name="581 Cargo Ramp 85" />
+			<taxi_routing_node latitude="22.327244" longitude="114.196685" type="both" id="582" name="582 19" />
+			<taxi_routing_edge start_node_id="523" end_node_id="525" direction="twoway" location="taxiway" width_code="e" identifier="D2" />
+			<taxi_routing_edge start_node_id="387" end_node_id="388" direction="twoway" location="taxiway" width_code="e" identifier="C1" />
+			<taxi_routing_edge start_node_id="388" end_node_id="389" direction="twoway" location="taxiway" width_code="e" identifier="C1" />
+			<taxi_routing_edge start_node_id="389" end_node_id="390" direction="twoway" location="taxiway" width_code="e" identifier="C1" />
+			<taxi_routing_edge start_node_id="390" end_node_id="219" direction="twoway" location="taxiway" width_code="e" identifier="C1" />
+			<taxi_routing_edge start_node_id="502" end_node_id="557" direction="twoway" location="taxiway" width_code="e" identifier="" />
+			<taxi_routing_edge start_node_id="523" end_node_id="582" direction="twoway" location="taxiway" width_code="e" identifier="" />
+		</taxi_routing_network>
+	</airport>
+</apt>

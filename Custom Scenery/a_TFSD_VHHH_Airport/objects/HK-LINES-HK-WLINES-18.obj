@@ -1,0 +1,22 @@
+I
+800	
+OBJ
+
+
+
+TEXTURE	
+TEXTURE_DRAPED	HK-WLINES.dds
+POINT_COUNTS	3 0 0 3
+
+VT	  -3.824    0.010    1.333	 0.000  1.000 -0.000	0.0000 83.5819
+VT	   3.824    0.010    1.333	 0.000  1.000 -0.000	0.0631 83.7626
+VT	   3.824    0.010   -1.333	 0.000  1.000 -0.000	0.0000 83.7848
+
+IDX	2
+IDX	1
+IDX	0
+
+ATTR_LOD_draped	70
+ATTR_draped
+ATTR_layer_group_draped	objects -1
+TRIS	0 3

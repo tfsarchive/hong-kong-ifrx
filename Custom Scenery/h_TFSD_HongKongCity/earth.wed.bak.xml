@@ -1,0 +1,3399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- written by WED 2.3.1r1 -->
+<doc>
+  <objects>
+    <object class="WED_SimpleBoundaryNode" id="9" parent_id="6">
+      <children/>
+      <hierarchy name="e2" locked="0" hidden="0"/>
+      <point latitude="22.320759000" longitude="113.937126000"/>
+    </object>
+    <object class="WED_ObjPlacement" id="65" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341454471" longitude="114.113299191" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_Root" id="1" parent_id="0">
+      <children>
+        <child id="2"/>
+        <child id="3"/>
+        <child id="4"/>
+      </children>
+      <hierarchy name="root"/>
+    </object>
+    <object class="WED_ObjPlacement" id="393" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327234970" longitude="114.094232090" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_Select" id="2" parent_id="1">
+      <children/>
+      <hierarchy name="selection"/>
+      <selection/>
+    </object>
+    <object class="WED_KeyObjects" id="3" parent_id="1">
+      <children/>
+      <hierarchy name="choices"/>
+      <keys>
+        <key name="airport" id="0"/>
+      </keys>
+    </object>
+    <object class="WED_ObjPlacement" id="387" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327605955" longitude="114.107368200" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_Group" id="4" parent_id="1">
+      <children>
+        <child id="5"/>
+      </children>
+      <hierarchy name="world" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_Group" id="5" parent_id="4">
+      <children>
+        <child id="7"/>
+        <child id="17"/>
+        <child id="58"/>
+      </children>
+      <hierarchy name="C:\Program Files\X-plane 11\Custom Scenery\VHHH_City\Earth nav data\+20+110\+22+113.dsf" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="397" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.326616979" longitude="114.094453346" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ExclusionZone" id="6" parent_id="7">
+      <children>
+        <child id="8"/>
+        <child id="9"/>
+      </children>
+      <hierarchy name="Exclusion Zone" locked="0" hidden="0"/>
+      <excluzions>
+        <exclusion value="Objects"/>
+      </excluzions>
+    </object>
+    <object class="WED_Group" id="7" parent_id="5">
+      <children>
+        <child id="6"/>
+        <child id="10"/>
+        <child id="13"/>
+      </children>
+      <hierarchy name="Exclusion Zones" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="407" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_HK_Ferry.obj" locked="0" hidden="0"/>
+      <point latitude="22.290389677" longitude="114.166189822" heading="346.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_Ferry.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="8" parent_id="6">
+      <children/>
+      <hierarchy name="e1" locked="0" hidden="0"/>
+      <point latitude="22.291052000" longitude="113.891434000"/>
+    </object>
+    <object class="WED_ObjPlacement" id="401" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328368906" longitude="114.100563153" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ExclusionZone" id="10" parent_id="7">
+      <children>
+        <child id="11"/>
+        <child id="12"/>
+      </children>
+      <hierarchy name="Exclusion Zone" locked="0" hidden="0"/>
+      <excluzions>
+        <exclusion value="Forests"/>
+      </excluzions>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="11" parent_id="10">
+      <children/>
+      <hierarchy name="e1" locked="0" hidden="0"/>
+      <point latitude="22.290604000" longitude="113.891518000"/>
+    </object>
+    <object class="WED_ObjPlacement" id="395" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327744717" longitude="114.094784752" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="12" parent_id="10">
+      <children/>
+      <hierarchy name="e2" locked="0" hidden="0"/>
+      <point latitude="22.321857000" longitude="113.935295000"/>
+    </object>
+    <object class="WED_ExclusionZone" id="13" parent_id="7">
+      <children>
+        <child id="14"/>
+        <child id="15"/>
+      </children>
+      <hierarchy name="Exclusion Zone" locked="0" hidden="0"/>
+      <excluzions>
+        <exclusion value="Road Networks"/>
+      </excluzions>
+    </object>
+    <object class="WED_ObjPlacement" id="405" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_HK_Ferry.obj" locked="0" hidden="0"/>
+      <point latitude="22.286739910" longitude="114.162293050" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_Ferry.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="14" parent_id="13">
+      <children/>
+      <hierarchy name="e1" locked="0" hidden="0"/>
+      <point latitude="22.260887000" longitude="113.895897000"/>
+    </object>
+    <object class="WED_SimpleBoundaryNode" id="15" parent_id="13">
+      <children/>
+      <hierarchy name="e2" locked="0" hidden="0"/>
+      <point latitude="22.290598000" longitude="113.941597000"/>
+    </object>
+    <object class="WED_ObjPlacement" id="415" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Kowloon_Apt_Generic.obj" locked="0" hidden="0"/>
+      <point latitude="22.304658770" longitude="114.163561933" heading="300.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Kowloon_Apt_Generic.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="16" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Terminal.obj" locked="0" hidden="0"/>
+      <point latitude="22.220824273" longitude="113.599240387" heading="322.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Terminal.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_Group" id="17" parent_id="5">
+      <children>
+        <child id="16"/>
+        <child id="18"/>
+        <child id="19"/>
+        <child id="20"/>
+        <child id="21"/>
+        <child id="22"/>
+        <child id="23"/>
+        <child id="24"/>
+        <child id="25"/>
+        <child id="26"/>
+        <child id="27"/>
+        <child id="28"/>
+        <child id="29"/>
+        <child id="30"/>
+        <child id="31"/>
+        <child id="32"/>
+        <child id="33"/>
+        <child id="34"/>
+        <child id="35"/>
+        <child id="36"/>
+        <child id="37"/>
+        <child id="38"/>
+        <child id="39"/>
+        <child id="40"/>
+        <child id="41"/>
+        <child id="42"/>
+        <child id="43"/>
+        <child id="44"/>
+        <child id="45"/>
+        <child id="46"/>
+        <child id="47"/>
+        <child id="48"/>
+        <child id="49"/>
+        <child id="50"/>
+        <child id="51"/>
+        <child id="52"/>
+        <child id="53"/>
+        <child id="54"/>
+        <child id="55"/>
+      </children>
+      <hierarchy name="Objects" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="409" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_HK_Ferry.obj" locked="0" hidden="0"/>
+      <point latitude="22.293487259" longitude="114.168269818" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_Ferry.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="18" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Terminal.obj" locked="0" hidden="0"/>
+      <point latitude="22.291374361" longitude="113.709852560" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Terminal.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="19" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Terminal.obj" locked="0" hidden="0"/>
+      <point latitude="22.281991016" longitude="113.709655623" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Terminal.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="403" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.329345483" longitude="114.102008946" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="20" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Terminal.obj" locked="0" hidden="0"/>
+      <point latitude="22.282073510" longitude="113.844666495" heading="14.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Terminal.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="21" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Terminal.obj" locked="0" hidden="0"/>
+      <point latitude="22.282215133" longitude="113.845059892" heading="12.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Terminal.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="413" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Kowloon_Apt_Generic.obj" locked="0" hidden="0"/>
+      <point latitude="22.303453784" longitude="114.163189994" heading="300.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Kowloon_Apt_Generic.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="22" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.278517205" longitude="113.703217269" heading="46.29"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="23" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.287805657" longitude="113.703675040" heading="42.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="24" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.282592317" longitude="113.836814775" heading="81.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="25" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HK_ZH_MC_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.282069696" longitude="113.837144274" heading="76.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_ZH_MC_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="26" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HighwayOverpass.obj" locked="0" hidden="0"/>
+      <point latitude="22.215597105" longitude="113.588027390" heading="251.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HighwayOverpass.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="27" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HighwayOverpass.obj" locked="0" hidden="0"/>
+      <point latitude="22.216296635" longitude="113.588463226" heading="85.09"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HighwayOverpass.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="411" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Kowloon_ICC.obj" locked="0" hidden="0"/>
+      <point latitude="22.303359846" longitude="114.160094797" heading="7.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Kowloon_ICC.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="28" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HighwayOverpass.obj" locked="0" hidden="0"/>
+      <point latitude="22.279621576" longitude="113.857659075" heading="106.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HighwayOverpass.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="29" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HighwayOverpass.obj" locked="0" hidden="0"/>
+      <point latitude="22.280535210" longitude="113.871119440" heading="291.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HighwayOverpass.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="30" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HighwayOverpass.obj" locked="0" hidden="0"/>
+      <point latitude="22.280065518" longitude="113.868900683" heading="252.09"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HighwayOverpass.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="31" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HighwayOverpass.obj" locked="0" hidden="0"/>
+      <point latitude="22.276937419" longitude="113.857185569" heading="121.69"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HighwayOverpass.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="431" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Four_Seasons.obj" locked="0" hidden="0"/>
+      <point latitude="22.286226349" longitude="114.156490330" heading="186.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Four_Seasons.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="32" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HighwayOverpass.obj" locked="0" hidden="0"/>
+      <point latitude="22.284225509" longitude="113.891510739" heading="58.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HighwayOverpass.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="33" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_HighwayOverpass.obj" locked="0" hidden="0"/>
+      <point latitude="22.286529145" longitude="113.889882315" heading="83.09"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HighwayOverpass.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="425" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Central_HK1.obj" locked="0" hidden="0"/>
+      <point latitude="22.279829480" longitude="114.169150072" heading="19.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Central_HK1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="34" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Buddha_01.obj" locked="0" hidden="0"/>
+      <point latitude="22.253923953" longitude="113.905058366" heading="344.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Buddha_01.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="35" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Buddha_01.obj" locked="0" hidden="0"/>
+      <point latitude="22.253800450" longitude="113.904622530" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Buddha_01.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="419" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Waves.obj" locked="0" hidden="0"/>
+      <point latitude="22.294697490" longitude="114.146647307" heading="52.59"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Waves.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="36" parent_id="17">
+      <children/>
+      <hierarchy name="container.obj" locked="0" hidden="0"/>
+      <point latitude="22.358472572" longitude="113.824548428" heading="126.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="opensceneryx/objects/vehicles/boats_ships/container.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="37" parent_id="17">
+      <children/>
+      <hierarchy name="container.obj" locked="0" hidden="0"/>
+      <point latitude="22.355343519" longitude="113.937176223" heading="264.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="opensceneryx/objects/vehicles/boats_ships/container.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="429" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Citic.obj" locked="0" hidden="0"/>
+      <point latitude="22.280359255" longitude="114.167226005" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Citic.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="38" parent_id="17">
+      <children/>
+      <hierarchy name="cruise.obj" locked="0" hidden="0"/>
+      <point latitude="22.289825093" longitude="113.837125200" heading="248.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="opensceneryx/objects/vehicles/boats_ships/cruise.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="39" parent_id="17">
+      <children/>
+      <hierarchy name="Buildings2.obj" locked="0" hidden="0"/>
+      <point latitude="22.280290589" longitude="113.934738594" heading="314.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Buildings2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="439" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_The_Central1_03.obj" locked="0" hidden="0"/>
+      <point latitude="22.284832532" longitude="114.154972534" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_The_Central1_03.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="40" parent_id="17">
+      <children/>
+      <hierarchy name="Buildings2.obj" locked="0" hidden="0"/>
+      <point latitude="22.278167201" longitude="113.935819123" heading="198.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Buildings2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="41" parent_id="17">
+      <children/>
+      <hierarchy name="Buildings2.obj" locked="0" hidden="0"/>
+      <point latitude="22.283078222" longitude="113.936667430" heading="276.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Buildings2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="433" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Hopewell.obj" locked="0" hidden="0"/>
+      <point latitude="22.274850748" longitude="114.171758888" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Hopewell.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="42" parent_id="17">
+      <children/>
+      <hierarchy name="Buildings2.obj" locked="0" hidden="0"/>
+      <point latitude="22.281397822" longitude="113.937769894" heading="276.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/Buildings2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="43" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.264787900" longitude="113.849852655" heading="179.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="427" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_BOC.obj" locked="0" hidden="0"/>
+      <point latitude="22.280046445" longitude="114.160411421" heading="3.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_BOC.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="44" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.290728237" longitude="113.883226997" heading="179.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="45" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.306720169" longitude="113.959172103" heading="46.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="437" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_The_Central1_01.obj" locked="0" hidden="0"/>
+      <point latitude="22.284832532" longitude="114.154972534" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_The_Central1_01.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="46" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Oil_Rig.obj" locked="0" hidden="0"/>
+      <point latitude="22.291258488" longitude="113.612946803" heading="93.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Rig.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="47" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Oil_Rig.obj" locked="0" hidden="0"/>
+      <point latitude="22.341662375" longitude="113.661155299" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Rig.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="447" parent_id="58">
+      <children/>
+      <hierarchy name="Ferry_SFO.obj" locked="0" hidden="0"/>
+      <point latitude="22.288344968" longitude="114.153074693" heading="104.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Ferry_SFO.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="48" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Oil_Rig.obj" locked="0" hidden="0"/>
+      <point latitude="22.293029488" longitude="113.725124933" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Rig.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="49" parent_id="17">
+      <children/>
+      <hierarchy name="V2.0_Oil_Rig.obj" locked="0" hidden="0"/>
+      <point latitude="22.339790761" longitude="113.837782292" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Rig.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="441" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_The_Central_HK.obj" locked="0" hidden="0"/>
+      <point latitude="22.285338941" longitude="114.158280880" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_The_Central_HK.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="50" parent_id="17">
+      <children/>
+      <hierarchy name="Row_of_Cars_10.agp" locked="0" hidden="0"/>
+      <point latitude="22.281797894" longitude="113.843293183" heading="111.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Parking/Row_of_Cars_10.agp" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="51" parent_id="17">
+      <children/>
+      <hierarchy name="Row_of_Cars_10.agp" locked="0" hidden="0"/>
+      <point latitude="22.281905184" longitude="113.842979419" heading="111.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Parking/Row_of_Cars_10.agp" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="435" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Macau_Ferry_Terminal.obj" locked="0" hidden="0"/>
+      <point latitude="22.288207637" longitude="114.151879721" heading="354.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Macau_Ferry_Terminal.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="52" parent_id="17">
+      <children/>
+      <hierarchy name="Row_of_Cars_10.agp" locked="0" hidden="0"/>
+      <point latitude="22.282007229" longitude="113.842703803" heading="111.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Parking/Row_of_Cars_10.agp" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="53" parent_id="17">
+      <children/>
+      <hierarchy name="Row_of_Cars_10.agp" locked="0" hidden="0"/>
+      <point latitude="22.283048180" longitude="113.843692302" heading="91.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Parking/Row_of_Cars_10.agp" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="445" parent_id="58">
+      <children/>
+      <hierarchy name="Ferry_SFO.obj" locked="0" hidden="0"/>
+      <point latitude="22.289684901" longitude="114.151633192" heading="104.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Ferry_SFO.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="54" parent_id="17">
+      <children/>
+      <hierarchy name="Row_of_Cars_10.agp" locked="0" hidden="0"/>
+      <point latitude="22.283051995" longitude="113.843367571" heading="91.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Parking/Row_of_Cars_10.agp" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="55" parent_id="17">
+      <children/>
+      <hierarchy name="Row_of_Cars_10.agp" locked="0" hidden="0"/>
+      <point latitude="22.283063916" longitude="113.843034733" heading="91.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Parking/Row_of_Cars_10.agp" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="391" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328259709" longitude="114.094232090" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="57" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339003967" longitude="114.124450675" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="385" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328475719" longitude="114.107368200" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_Group" id="58" parent_id="5">
+      <children>
+        <child id="57"/>
+        <child id="59"/>
+        <child id="60"/>
+        <child id="61"/>
+        <child id="62"/>
+        <child id="63"/>
+        <child id="64"/>
+        <child id="65"/>
+        <child id="66"/>
+        <child id="67"/>
+        <child id="68"/>
+        <child id="69"/>
+        <child id="70"/>
+        <child id="71"/>
+        <child id="72"/>
+        <child id="73"/>
+        <child id="74"/>
+        <child id="75"/>
+        <child id="76"/>
+        <child id="77"/>
+        <child id="78"/>
+        <child id="79"/>
+        <child id="80"/>
+        <child id="81"/>
+        <child id="82"/>
+        <child id="83"/>
+        <child id="84"/>
+        <child id="85"/>
+        <child id="86"/>
+        <child id="87"/>
+        <child id="88"/>
+        <child id="89"/>
+        <child id="90"/>
+        <child id="91"/>
+        <child id="92"/>
+        <child id="93"/>
+        <child id="94"/>
+        <child id="95"/>
+        <child id="96"/>
+        <child id="97"/>
+        <child id="98"/>
+        <child id="99"/>
+        <child id="100"/>
+        <child id="101"/>
+        <child id="102"/>
+        <child id="103"/>
+        <child id="104"/>
+        <child id="105"/>
+        <child id="106"/>
+        <child id="107"/>
+        <child id="108"/>
+        <child id="109"/>
+        <child id="110"/>
+        <child id="111"/>
+        <child id="112"/>
+        <child id="113"/>
+        <child id="114"/>
+        <child id="115"/>
+        <child id="116"/>
+        <child id="117"/>
+        <child id="118"/>
+        <child id="119"/>
+        <child id="120"/>
+        <child id="121"/>
+        <child id="122"/>
+        <child id="123"/>
+        <child id="124"/>
+        <child id="125"/>
+        <child id="126"/>
+        <child id="127"/>
+        <child id="128"/>
+        <child id="129"/>
+        <child id="130"/>
+        <child id="131"/>
+        <child id="132"/>
+        <child id="133"/>
+        <child id="134"/>
+        <child id="135"/>
+        <child id="136"/>
+        <child id="137"/>
+        <child id="138"/>
+        <child id="139"/>
+        <child id="140"/>
+        <child id="141"/>
+        <child id="142"/>
+        <child id="143"/>
+        <child id="144"/>
+        <child id="145"/>
+        <child id="146"/>
+        <child id="147"/>
+        <child id="148"/>
+        <child id="149"/>
+        <child id="150"/>
+        <child id="151"/>
+        <child id="152"/>
+        <child id="153"/>
+        <child id="154"/>
+        <child id="155"/>
+        <child id="156"/>
+        <child id="157"/>
+        <child id="158"/>
+        <child id="159"/>
+        <child id="160"/>
+        <child id="161"/>
+        <child id="162"/>
+        <child id="163"/>
+        <child id="164"/>
+        <child id="165"/>
+        <child id="166"/>
+        <child id="167"/>
+        <child id="168"/>
+        <child id="169"/>
+        <child id="170"/>
+        <child id="171"/>
+        <child id="172"/>
+        <child id="173"/>
+        <child id="174"/>
+        <child id="175"/>
+        <child id="176"/>
+        <child id="177"/>
+        <child id="178"/>
+        <child id="179"/>
+        <child id="180"/>
+        <child id="181"/>
+        <child id="182"/>
+        <child id="183"/>
+        <child id="184"/>
+        <child id="185"/>
+        <child id="186"/>
+        <child id="187"/>
+        <child id="188"/>
+        <child id="189"/>
+        <child id="190"/>
+        <child id="191"/>
+        <child id="192"/>
+        <child id="193"/>
+        <child id="194"/>
+        <child id="195"/>
+        <child id="196"/>
+        <child id="197"/>
+        <child id="198"/>
+        <child id="199"/>
+        <child id="200"/>
+        <child id="201"/>
+        <child id="202"/>
+        <child id="203"/>
+        <child id="204"/>
+        <child id="205"/>
+        <child id="206"/>
+        <child id="207"/>
+        <child id="208"/>
+        <child id="209"/>
+        <child id="210"/>
+        <child id="211"/>
+        <child id="212"/>
+        <child id="213"/>
+        <child id="214"/>
+        <child id="215"/>
+        <child id="216"/>
+        <child id="217"/>
+        <child id="218"/>
+        <child id="219"/>
+        <child id="220"/>
+        <child id="221"/>
+        <child id="222"/>
+        <child id="223"/>
+        <child id="224"/>
+        <child id="225"/>
+        <child id="226"/>
+        <child id="227"/>
+        <child id="228"/>
+        <child id="229"/>
+        <child id="230"/>
+        <child id="231"/>
+        <child id="232"/>
+        <child id="233"/>
+        <child id="234"/>
+        <child id="235"/>
+        <child id="236"/>
+        <child id="237"/>
+        <child id="238"/>
+        <child id="239"/>
+        <child id="240"/>
+        <child id="241"/>
+        <child id="242"/>
+        <child id="243"/>
+        <child id="244"/>
+        <child id="245"/>
+        <child id="246"/>
+        <child id="247"/>
+        <child id="248"/>
+        <child id="249"/>
+        <child id="250"/>
+        <child id="251"/>
+        <child id="252"/>
+        <child id="253"/>
+        <child id="254"/>
+        <child id="255"/>
+        <child id="256"/>
+        <child id="257"/>
+        <child id="258"/>
+        <child id="259"/>
+        <child id="260"/>
+        <child id="261"/>
+        <child id="262"/>
+        <child id="263"/>
+        <child id="264"/>
+        <child id="265"/>
+        <child id="266"/>
+        <child id="267"/>
+        <child id="268"/>
+        <child id="269"/>
+        <child id="270"/>
+        <child id="271"/>
+        <child id="272"/>
+        <child id="273"/>
+        <child id="274"/>
+        <child id="275"/>
+        <child id="276"/>
+        <child id="277"/>
+        <child id="278"/>
+        <child id="279"/>
+        <child id="280"/>
+        <child id="281"/>
+        <child id="282"/>
+        <child id="283"/>
+        <child id="284"/>
+        <child id="285"/>
+        <child id="286"/>
+        <child id="287"/>
+        <child id="288"/>
+        <child id="289"/>
+        <child id="290"/>
+        <child id="291"/>
+        <child id="292"/>
+        <child id="293"/>
+        <child id="294"/>
+        <child id="295"/>
+        <child id="296"/>
+        <child id="297"/>
+        <child id="298"/>
+        <child id="299"/>
+        <child id="300"/>
+        <child id="301"/>
+        <child id="302"/>
+        <child id="303"/>
+        <child id="304"/>
+        <child id="305"/>
+        <child id="306"/>
+        <child id="307"/>
+        <child id="308"/>
+        <child id="309"/>
+        <child id="310"/>
+        <child id="311"/>
+        <child id="312"/>
+        <child id="313"/>
+        <child id="314"/>
+        <child id="315"/>
+        <child id="316"/>
+        <child id="317"/>
+        <child id="318"/>
+        <child id="319"/>
+        <child id="320"/>
+        <child id="321"/>
+        <child id="322"/>
+        <child id="323"/>
+        <child id="324"/>
+        <child id="325"/>
+        <child id="326"/>
+        <child id="327"/>
+        <child id="328"/>
+        <child id="329"/>
+        <child id="330"/>
+        <child id="331"/>
+        <child id="332"/>
+        <child id="333"/>
+        <child id="334"/>
+        <child id="335"/>
+        <child id="336"/>
+        <child id="337"/>
+        <child id="338"/>
+        <child id="339"/>
+        <child id="340"/>
+        <child id="341"/>
+        <child id="342"/>
+        <child id="343"/>
+        <child id="344"/>
+        <child id="345"/>
+        <child id="346"/>
+        <child id="347"/>
+        <child id="348"/>
+        <child id="349"/>
+        <child id="350"/>
+        <child id="351"/>
+        <child id="352"/>
+        <child id="353"/>
+        <child id="354"/>
+        <child id="355"/>
+        <child id="356"/>
+        <child id="357"/>
+        <child id="358"/>
+        <child id="359"/>
+        <child id="360"/>
+        <child id="361"/>
+        <child id="362"/>
+        <child id="363"/>
+        <child id="364"/>
+        <child id="365"/>
+        <child id="366"/>
+        <child id="367"/>
+        <child id="368"/>
+        <child id="369"/>
+        <child id="370"/>
+        <child id="371"/>
+        <child id="372"/>
+        <child id="373"/>
+        <child id="374"/>
+        <child id="375"/>
+        <child id="376"/>
+        <child id="377"/>
+        <child id="378"/>
+        <child id="379"/>
+        <child id="380"/>
+        <child id="381"/>
+        <child id="382"/>
+        <child id="383"/>
+        <child id="384"/>
+        <child id="385"/>
+        <child id="386"/>
+        <child id="387"/>
+        <child id="388"/>
+        <child id="389"/>
+        <child id="390"/>
+        <child id="391"/>
+        <child id="392"/>
+        <child id="393"/>
+        <child id="394"/>
+        <child id="395"/>
+        <child id="396"/>
+        <child id="397"/>
+        <child id="398"/>
+        <child id="399"/>
+        <child id="400"/>
+        <child id="401"/>
+        <child id="402"/>
+        <child id="403"/>
+        <child id="404"/>
+        <child id="405"/>
+        <child id="406"/>
+        <child id="407"/>
+        <child id="408"/>
+        <child id="409"/>
+        <child id="410"/>
+        <child id="411"/>
+        <child id="412"/>
+        <child id="413"/>
+        <child id="414"/>
+        <child id="415"/>
+        <child id="416"/>
+        <child id="417"/>
+        <child id="418"/>
+        <child id="419"/>
+        <child id="420"/>
+        <child id="421"/>
+        <child id="422"/>
+        <child id="423"/>
+        <child id="424"/>
+        <child id="425"/>
+        <child id="426"/>
+        <child id="427"/>
+        <child id="428"/>
+        <child id="429"/>
+        <child id="430"/>
+        <child id="431"/>
+        <child id="432"/>
+        <child id="433"/>
+        <child id="434"/>
+        <child id="435"/>
+        <child id="436"/>
+        <child id="437"/>
+        <child id="438"/>
+        <child id="439"/>
+        <child id="440"/>
+        <child id="441"/>
+        <child id="442"/>
+        <child id="443"/>
+        <child id="444"/>
+        <child id="445"/>
+        <child id="446"/>
+        <child id="447"/>
+        <child id="448"/>
+        <child id="449"/>
+        <child id="450"/>
+        <child id="451"/>
+        <child id="452"/>
+        <child id="453"/>
+        <child id="454"/>
+        <child id="455"/>
+        <child id="456"/>
+        <child id="457"/>
+        <child id="458"/>
+        <child id="459"/>
+        <child id="460"/>
+        <child id="461"/>
+        <child id="462"/>
+        <child id="463"/>
+        <child id="464"/>
+        <child id="465"/>
+        <child id="466"/>
+        <child id="467"/>
+        <child id="468"/>
+        <child id="469"/>
+        <child id="470"/>
+        <child id="471"/>
+        <child id="472"/>
+        <child id="473"/>
+      </children>
+      <hierarchy name="Objects" locked="0" hidden="0"/>
+    </object>
+    <object class="WED_ObjPlacement" id="59" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339459354" longitude="114.124402991" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="443" parent_id="58">
+      <children/>
+      <hierarchy name="Silver_Shadow.obj" locked="0" hidden="0"/>
+      <point latitude="22.295333600" longitude="114.166020542" heading="258.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Cruise/Silver_Shadow.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="60" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341628996" longitude="114.123199912" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="61" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.342442493" longitude="114.122895209" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="389" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328475719" longitude="114.108463512" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="62" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.340310044" longitude="114.113635367" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="63" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339968147" longitude="114.113952468" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="463" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.310577363" longitude="114.155257210" heading="264.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="64" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341112097" longitude="114.113620108" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="457" parent_id="58">
+      <children/>
+      <hierarchy name="Container_Ship_1.obj" locked="0" hidden="0"/>
+      <point latitude="22.333099203" longitude="114.117185950" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Container_Ship_1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="66" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339634356" longitude="114.112121386" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="67" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339294842" longitude="114.112437057" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="451" parent_id="58">
+      <children/>
+      <hierarchy name="MIA_Downtown1-p1b2711.obj" locked="0" hidden="0"/>
+      <point latitude="22.272186141" longitude="114.182311933" heading="112.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/MIA_Downtown1-p1b2711.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="68" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.340438792" longitude="114.112108034" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="69" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.340778305" longitude="114.111789979" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="461" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.311322194" longitude="114.156054017" heading="264.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="70" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341430629" longitude="114.112039368" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="71" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341093977" longitude="114.112357424" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="471" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.307537480" longitude="114.158498798" heading="284.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="72" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.342237449" longitude="114.112022679" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="73" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.342575055" longitude="114.111704623" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="465" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.307732033" longitude="114.155160887" heading="264.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="74" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.342602712" longitude="114.112853819" heading="159.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="75" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.342280365" longitude="114.113185702" heading="338.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="459" parent_id="58">
+      <children/>
+      <hierarchy name="Container_Ship_1.obj" locked="0" hidden="0"/>
+      <point latitude="22.325149252" longitude="114.122715438" heading="89.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Container_Ship_1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="76" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.343402380" longitude="114.112793736" heading="338.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="77" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.343727588" longitude="114.112461376" heading="159.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="469" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.311145762" longitude="114.156597143" heading="264.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="78" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339977684" longitude="114.113120375" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="79" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339634833" longitude="114.113441291" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="80" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.340778782" longitude="114.113105116" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="81" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341121157" longitude="114.112789921" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="473" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barrier.obj" locked="0" hidden="0"/>
+      <point latitude="22.310578317" longitude="114.154897192" heading="256.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barrier.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="82" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.342281796" longitude="114.112385080" heading="158.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="83" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341964694" longitude="114.112728885" heading="338.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="467" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.313326371" longitude="114.155787938" heading="268.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="84" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.343080034" longitude="114.112314984" heading="338.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="85" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.343399042" longitude="114.111977379" heading="158.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="86" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335861086" longitude="114.115113584" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="87" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335523957" longitude="114.115431640" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="88" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336667430" longitude="114.115102617" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="89" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.337005512" longitude="114.114784562" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="90" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336015106" longitude="114.114463645" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="91" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335677977" longitude="114.114785039" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="92" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336822404" longitude="114.114449817" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="93" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.337159056" longitude="114.114134623" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="94" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335682746" longitude="114.114000153" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="95" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335343233" longitude="114.114318208" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="96" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336486706" longitude="114.113984894" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="97" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336826696" longitude="114.113663977" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="98" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335189689" longitude="114.113591497" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="99" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334850175" longitude="114.113909075" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="100" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335994125" longitude="114.113580053" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="101" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336333639" longitude="114.113261521" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="102" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335019455" longitude="114.113063153" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="103" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334680419" longitude="114.113384070" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="104" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335824369" longitude="114.113049325" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="105" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336163882" longitude="114.112731746" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="106" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333367189" longitude="114.115853647" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="107" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333025292" longitude="114.116171225" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="108" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334169242" longitude="114.115842203" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="109" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334511616" longitude="114.115523671" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="110" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333522641" longitude="114.115206092" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="111" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333179789" longitude="114.115524147" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="112" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334323739" longitude="114.115189403" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="113" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334666114" longitude="114.114870871" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="114" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333189326" longitude="114.114739261" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="115" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332850290" longitude="114.115054932" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="116" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333994240" longitude="114.114725433" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="117" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334333753" longitude="114.114404517" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="118" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332531758" longitude="114.114392119" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="119" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332192245" longitude="114.114709697" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="455" parent_id="58">
+      <children/>
+      <hierarchy name="Container_Ship_2.obj" locked="0" hidden="0"/>
+      <point latitude="22.325940337" longitude="114.129133764" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Container_Ship_2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="120" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333332856" longitude="114.114379721" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="121" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333675708" longitude="114.114061666" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="449" parent_id="58">
+      <children/>
+      <hierarchy name="WessexFiftyFeetAnimated.obj" locked="0" hidden="0"/>
+      <point latitude="22.288807031" longitude="114.152242123" heading="12.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/WessexFiftyFeetAnimated.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="122" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332520790" longitude="114.113806077" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="123" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332183661" longitude="114.114123655" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="124" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333328088" longitude="114.113788911" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="125" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333664740" longitude="114.113469902" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="453" parent_id="58">
+      <children/>
+      <hierarchy name="Container_Ship_2.obj" locked="0" hidden="0"/>
+      <point latitude="22.330215724" longitude="114.133384356" heading="69.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Container_Ship_2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="126" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334521630" longitude="114.112660697" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="127" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334182593" longitude="114.112975891" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="128" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335327020" longitude="114.112645438" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="314" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.329874781" longitude="114.116376745" heading="307.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="129" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335665579" longitude="114.112324521" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="130" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330856126" longitude="114.115444514" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="260" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.322935264" longitude="114.126251717" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="131" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330516613" longitude="114.115765908" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="132" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331661040" longitude="114.115430686" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="318" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.324985695" longitude="114.127212081" heading="157.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="133" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332000076" longitude="114.115112631" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="134" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330227646" longitude="114.115070192" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="312" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.336475261" longitude="114.115600443" heading="248.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="135" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.329887655" longitude="114.115391585" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="136" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331028744" longitude="114.115055409" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="258" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.322840848" longitude="114.127279793" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="137" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331371118" longitude="114.114741169" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="138" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331083104" longitude="114.116121633" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="268" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323793584" longitude="114.125614652" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="139" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330743591" longitude="114.116440166" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="140" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331888018" longitude="114.116104944" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="262" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324557012" longitude="114.129333085" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="141" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332227054" longitude="114.115786889" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="142" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.344726101" longitude="114.122623884" heading="340.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="256" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323713474" longitude="114.129191463" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="143" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.345467594" longitude="114.122353037" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="144" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.346201457" longitude="114.122075990" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="266" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323608091" longitude="114.127830549" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="145" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.344646468" longitude="114.122070268" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="146" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.345459010" longitude="114.121765087" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="276" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325464446" longitude="114.134054322" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="147" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.346193351" longitude="114.121491379" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="148" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.344903010" longitude="114.123154135" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="270" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323774510" longitude="114.126629377" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="149" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.345717937" longitude="114.122849432" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="150" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.346530957" longitude="114.122543774" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="264" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324009594" longitude="114.126408598" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="151" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.347343500" longitude="114.121648260" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="152" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.348076886" longitude="114.121376936" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="274" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323290990" longitude="114.127492466" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="153" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.348839361" longitude="114.121190013" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="154" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.347593843" longitude="114.122144656" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="284" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325761521" longitude="114.131276703" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="155" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.348327230" longitude="114.121872377" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="156" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.349089704" longitude="114.121685454" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="278" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324592775" longitude="114.132145991" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="157" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.347255760" longitude="114.121093690" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="158" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.348507477" longitude="114.120724613" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="272" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323276684" longitude="114.129351682" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="159" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.348718242" longitude="114.122804131" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="160" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.347871843" longitude="114.123024434" heading="344.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="161" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.350663767" longitude="114.121193828" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="162" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.350494011" longitude="114.120370317" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="292" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325028611" longitude="114.134217880" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="163" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.350175002" longitude="114.121376936" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="164" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.350077726" longitude="114.120526246" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="165" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.349654765" longitude="114.120675975" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="166" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.349741550" longitude="114.121441787" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="167" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.348919947" longitude="114.118307012" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="168" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.349227512" longitude="114.119272145" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="290" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325525483" longitude="114.131492714" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="169" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.348636225" longitude="114.117431525" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="170" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.348357748" longitude="114.116554608" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="300" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.329562448" longitude="114.116637102" heading="40.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="171" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339307240" longitude="114.125641833" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="172" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339883745" longitude="114.126015679" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="294" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325042439" longitude="114.132357710" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="173" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339630064" longitude="114.125225547" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="174" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339974346" longitude="114.126865892" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="288" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325545987" longitude="114.130482757" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="175" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339898528" longitude="114.127484360" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="176" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339599546" longitude="114.126481079" heading="253.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="298" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.334659915" longitude="114.124470703" heading="342.49"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="177" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.343245022" longitude="114.127251659" heading="294.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="178" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.343568799" longitude="114.126461528" heading="292.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="308" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.328564889" longitude="114.128288319" heading="71.49"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="179" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335865854" longitude="114.128301671" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="180" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335615988" longitude="114.127512016" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="302" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.325458248" longitude="114.108268482" heading="85.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="181" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335359445" longitude="114.126721885" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="182" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335052358" longitude="114.125756752" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="296" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.338269627" longitude="114.124578470" heading="71.49"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="183" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336206798" longitude="114.129354067" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="184" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.336378462" longitude="114.130158980" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="306" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.339076448" longitude="114.127240692" heading="71.49"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="185" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335377089" longitude="114.128484302" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="186" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335131514" longitude="114.127695125" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="316" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.347232872" longitude="114.120544366" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="187" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335689422" longitude="114.129452296" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="188" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.335830568" longitude="114.130184730" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="310" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.340366789" longitude="114.122923819" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="189" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334710937" longitude="114.129818990" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="190" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334853990" longitude="114.130551423" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="304" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.326688506" longitude="114.102408064" heading="85.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="191" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334454395" longitude="114.128732261" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="192" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334282731" longitude="114.127915427" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="378" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328476196" longitude="114.107943275" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="193" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334842069" longitude="114.126820115" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="194" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334564069" longitude="114.125939860" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="324" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.336025120" longitude="114.126606489" heading="158.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="195" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334029526" longitude="114.127125296" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="196" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333748665" longitude="114.126245518" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="382" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328475719" longitude="114.106362535" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="197" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333881228" longitude="114.128949226" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="198" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333709564" longitude="114.128125715" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="376" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.324404898" longitude="114.120173381" heading="131.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="199" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333458743" longitude="114.127336538" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="200" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333256085" longitude="114.126428626" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="322" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.330982013" longitude="114.126068608" heading="69.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="201" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334136816" longitude="114.130029278" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="202" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.334305142" longitude="114.130690661" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="332" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.332084955" longitude="114.116737240" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="203" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332955196" longitude="114.129204337" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="204" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332702468" longitude="114.128420405" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="326" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.328995003" longitude="114.135073339" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="205" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332508392" longitude="114.127576390" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="206" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332271401" longitude="114.126708534" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="320" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.330133707" longitude="114.131861315" heading="338.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="207" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333099203" longitude="114.127858206" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="208" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.333316644" longitude="114.128652152" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="330" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.338516155" longitude="114.111842432" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="209" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332716297" longitude="114.126416705" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="210" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332425422" longitude="114.129108968" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="340" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.346652075" longitude="114.121579595" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="211" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332091154" longitude="114.128067063" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="212" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331875620" longitude="114.127273117" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="334" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.329208152" longitude="114.115235180" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="213" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331390192" longitude="114.127204929" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="214" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331536584" longitude="114.127944514" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="328" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.339241913" longitude="114.114281491" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="215" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331849870" longitude="114.128288319" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="216" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331373026" longitude="114.129149977" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="338" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.323302911" longitude="114.122568570" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="217" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331689651" longitude="114.129491875" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="218" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331010624" longitude="114.127910658" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="348" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.351541161" longitude="114.122347314" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="219" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331329156" longitude="114.128248741" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="220" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330255303" longitude="114.127376593" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="342" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.347256714" longitude="114.123722057" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="221" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330568589" longitude="114.127717060" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="222" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330600538" longitude="114.128600652" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="336" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.339561875" longitude="114.123674849" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="223" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330917163" longitude="114.128942073" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="224" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330322061" longitude="114.129285878" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="282" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.326308938" longitude="114.134199283" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="225" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330641070" longitude="114.129629683" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="226" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.329808022" longitude="114.129537652" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="356" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.336296445" longitude="114.128572519" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="227" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330124647" longitude="114.129880980" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="228" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.329308289" longitude="114.127790970" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="286" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325362402" longitude="114.132695792" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="229" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.329622053" longitude="114.128129053" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="230" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330411707" longitude="114.131425956" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="280" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324686236" longitude="114.131114576" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="231" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330728332" longitude="114.131769284" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="232" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.330890459" longitude="114.131244755" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="354" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.337084668" longitude="114.130222400" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="233" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331207561" longitude="114.131588560" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="234" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331358721" longitude="114.131013485" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="364" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.327471008" longitude="114.135673209" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="235" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331674868" longitude="114.131352045" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="236" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.331788834" longitude="114.130850404" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="358" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.332073987" longitude="114.125907435" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="237" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332107366" longitude="114.131188964" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="238" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332320993" longitude="114.130651083" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="352" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.340908961" longitude="114.128243496" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="239" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.332638571" longitude="114.130989166" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="240" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.338684005" longitude="114.130178531" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="362" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.330780308" longitude="114.132914664" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="241" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.338346399" longitude="114.130493725" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="242" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339828431" longitude="114.129842355" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="372" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.350766766" longitude="114.072684443" heading="73.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="243" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339490349" longitude="114.130163272" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="244" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.339278153" longitude="114.129164282" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="366" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.326266976" longitude="114.131745918" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="245" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.338938640" longitude="114.129482815" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="246" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.338087949" longitude="114.129565785" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="360" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.328881037" longitude="114.127022297" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="247" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.337748913" longitude="114.129882410" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="248" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341378653" longitude="114.128770886" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="370" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.348190852" longitude="114.063633459" heading="73.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="249" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341035801" longitude="114.129088464" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="250" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341414416" longitude="114.129295892" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="380" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327972171" longitude="114.106872282" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="251" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.341074903" longitude="114.129617285" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="252" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.328774701" longitude="114.135530156" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="374" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.330138952" longitude="114.113019284" heading="131.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="253" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.328432326" longitude="114.135848688" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="254" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.329576753" longitude="114.135512512" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="368" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.324582284" longitude="114.126121061" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="255" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.329918650" longitude="114.135195411" heading="162.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="257" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323251411" longitude="114.126589799" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="259" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323312924" longitude="114.125548848" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="261" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324029622" longitude="114.129529545" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="263" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324243248" longitude="114.128989281" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="265" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323593786" longitude="114.129695964" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="267" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324343385" longitude="114.127450027" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="269" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.322493229" longitude="114.126055734" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="271" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.322524701" longitude="114.126941711" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="273" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323455501" longitude="114.126286049" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="275" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.322173743" longitude="114.125717651" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="277" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325000477" longitude="114.131458858" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="279" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325061990" longitude="114.130414569" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="281" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325778210" longitude="114.134398604" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="283" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325991360" longitude="114.133855001" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="285" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325347620" longitude="114.134561685" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="287" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.326095312" longitude="114.132318132" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="289" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324244202" longitude="114.130920977" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="291" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.324275673" longitude="114.131807908" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="293" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.325209335" longitude="114.131154154" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="295" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Cargo.obj" locked="0" hidden="0"/>
+      <point latitude="22.323928054" longitude="114.130580034" heading="72.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Cargo.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="297" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.342020485" longitude="114.121849489" heading="341.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="299" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.332617590" longitude="114.124854086" heading="352.49"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="301" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.339106012" longitude="114.122883288" heading="341.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="303" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.324815461" longitude="114.093978885" heading="88.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="305" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.346282521" longitude="114.120448520" heading="162.49"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="307" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.336785687" longitude="114.128244450" heading="72.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="309" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Vessels.obj" locked="0" hidden="0"/>
+      <point latitude="22.329520008" longitude="114.131353952" heading="73.50"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Vessels.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="311" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.340621901" longitude="114.114213779" heading="248.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="313" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.332682918" longitude="114.116874094" heading="249.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="315" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.343780041" longitude="114.121739338" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="317" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.348385405" longitude="114.118149653" heading="338.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="319" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.326217384" longitude="114.131435969" heading="158.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="321" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.329088464" longitude="114.128610189" heading="338.79"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="323" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.333967060" longitude="114.125016690" heading="69.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="325" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.339080262" longitude="114.126159209" heading="339.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="327" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Ship_Dock.obj" locked="0" hidden="0"/>
+      <point latitude="22.338341154" longitude="114.129335946" heading="69.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Ship_Dock.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="329" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.338975834" longitude="114.113270581" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="331" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.338074598" longitude="114.110478656" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="333" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.331218528" longitude="114.113653964" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="335" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.333672847" longitude="114.112050336" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="337" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.335152495" longitude="114.124829290" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="339" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.323543240" longitude="114.123107881" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="341" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.346965839" longitude="114.122611009" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="343" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.349670024" longitude="114.121818494" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="344" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.349333848" longitude="114.120593481" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="345" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.349013409" longitude="114.119245918" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="346" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.347755493" longitude="114.115628099" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="347" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.350871195" longitude="114.119469081" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="349" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.344347009" longitude="114.123491264" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="350" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.343964103" longitude="114.122108892" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="351" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.340225166" longitude="114.125927939" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="353" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.341388666" longitude="114.129941539" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="355" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.337465190" longitude="114.131400683" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="357" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.335571164" longitude="114.126133459" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="359" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.330208095" longitude="114.126528763" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="361" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.329942016" longitude="114.130515660" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="363" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.330550946" longitude="114.134595064" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="365" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.326827745" longitude="114.133482109" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="367" parent_id="58">
+      <children/>
+      <hierarchy name="Airport_Light_2_White.obj" locked="0" hidden="0"/>
+      <point latitude="22.325683795" longitude="114.129740787" heading="70.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Airport/Lights/Airport_Light_2_White.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="369" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.353333619" longitude="114.081744965" heading="73.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="371" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.349482624" longitude="114.068159190" heading="73.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="373" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.352050431" longitude="114.077213512" heading="73.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="375" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.327270256" longitude="114.116592756" heading="131.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="377" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Bridge.obj" locked="0" hidden="0"/>
+      <point latitude="22.321544785" longitude="114.123761158" heading="131.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Bridge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="379" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328407530" longitude="114.106872282" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="381" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327538243" longitude="114.106872282" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="383" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328110456" longitude="114.106354906" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="384" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327748054" longitude="114.106354906" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="386" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328041314" longitude="114.107368200" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="388" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327968357" longitude="114.107993820" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="390" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327992199" longitude="114.108463989" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="392" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327744717" longitude="114.094232090" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="394" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328362707" longitude="114.094671263" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="396" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327234970" longitude="114.094895380" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="398" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.326720932" longitude="114.094895380" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="399" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.327334154" longitude="114.093789101" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="400" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.328552014" longitude="114.100099660" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="402" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Oil_Tank.obj" locked="0" hidden="0"/>
+      <point latitude="22.329406519" longitude="114.101550221" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Oil_Tank.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="404" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_HK_Ferry.obj" locked="0" hidden="0"/>
+      <point latitude="22.292783913" longitude="114.168579767" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_Ferry.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="406" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_HK_Ferry.obj" locked="0" hidden="0"/>
+      <point latitude="22.290694858" longitude="114.162935836" heading="346.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_Ferry.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="408" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_HK_Ferry.obj" locked="0" hidden="0"/>
+      <point latitude="22.287215801" longitude="114.161121920" heading="342.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_Ferry.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="410" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Kowloon_Cullinan.obj" locked="0" hidden="0"/>
+      <point latitude="22.304834249" longitude="114.162071317" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Kowloon_Cullinan.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="412" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Kowloon_Harbourside.obj" locked="0" hidden="0"/>
+      <point latitude="22.303448539" longitude="114.161569677" heading="356.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Kowloon_Harbourside.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="414" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Kowloon_Apt_Generic.obj" locked="0" hidden="0"/>
+      <point latitude="22.303970684" longitude="114.163375486" heading="300.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Kowloon_Apt_Generic.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="416" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Sorrento.obj" locked="0" hidden="0"/>
+      <point latitude="22.305689708" longitude="114.161964981" heading="357.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Sorrento.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="417" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_TST_Ferry.obj" locked="0" hidden="0"/>
+      <point latitude="22.293772889" longitude="114.168756676" heading="358.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_TST_Ferry.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="418" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_HK_Conv.obj" locked="0" hidden="0"/>
+      <point latitude="22.283565557" longitude="114.172965782" heading="357.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_HK_Conv.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="420" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Waves.obj" locked="0" hidden="0"/>
+      <point latitude="22.297884718" longitude="114.144317922" heading="231.60"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Waves.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="421" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Waves.obj" locked="0" hidden="0"/>
+      <point latitude="22.290424010" longitude="114.162825685" heading="312.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Waves.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="422" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Waves.obj" locked="0" hidden="0"/>
+      <point latitude="22.290684367" longitude="114.166318570" heading="132.60"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Waves.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="423" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Waves.obj" locked="0" hidden="0"/>
+      <point latitude="22.297999638" longitude="114.160337034" heading="178.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Waves.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="424" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Waves.obj" locked="0" hidden="0"/>
+      <point latitude="22.291451133" longitude="114.157323377" heading="30.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Waves.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="426" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Central Plaza.obj" locked="0" hidden="0"/>
+      <point latitude="22.280087453" longitude="114.173527504" heading="356.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Central Plaza.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="428" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Central_Pier.obj" locked="0" hidden="0"/>
+      <point latitude="22.286333639" longitude="114.161409934" heading="293.80"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Central_Pier.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="430" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_City_Generic.obj" locked="0" hidden="0"/>
+      <point latitude="22.278481441" longitude="114.168736648" heading="354.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_City_Generic.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="432" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Gov_Offices_01.obj" locked="0" hidden="0"/>
+      <point latitude="22.280516136" longitude="114.165526532" heading="356.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Gov_Offices_01.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="434" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Immi_Central_HK.obj" locked="0" hidden="0"/>
+      <point latitude="22.279740311" longitude="114.172254807" heading="357.99"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Immi_Central_HK.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="436" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_The_Central1_00.obj" locked="0" hidden="0"/>
+      <point latitude="22.284832532" longitude="114.154972534" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_The_Central1_00.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="438" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_The_Central1_02.obj" locked="0" hidden="0"/>
+      <point latitude="22.284832532" longitude="114.154972534" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_The_Central1_02.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="440" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Two_IFC_Tower.obj" locked="0" hidden="0"/>
+      <point latitude="22.285992695" longitude="114.159977016" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Two_IFC_Tower.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="442" parent_id="58">
+      <children/>
+      <hierarchy name="Serenade_of_the_Seas.obj" locked="0" hidden="0"/>
+      <point latitude="22.294324598" longitude="114.166694800" heading="79.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Cruise/Serenade_of_the_Seas.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="444" parent_id="58">
+      <children/>
+      <hierarchy name="Ferry_SFO.obj" locked="0" hidden="0"/>
+      <point latitude="22.289543278" longitude="114.152337015" heading="104.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Ferry_SFO.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="446" parent_id="58">
+      <children/>
+      <hierarchy name="Ferry_SFO.obj" locked="0" hidden="0"/>
+      <point latitude="22.288603895" longitude="114.151993210" heading="104.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Ferry_SFO.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="448" parent_id="58">
+      <children/>
+      <hierarchy name="Ferry_SFO.obj" locked="0" hidden="0"/>
+      <point latitude="22.297820821" longitude="114.159874495" heading="250.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Ferry_SFO.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="450" parent_id="58">
+      <children/>
+      <hierarchy name="WessexFiftyFeetAnimated.obj" locked="0" hidden="0"/>
+      <point latitude="22.288963912" longitude="114.151550221" heading="12.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/WessexFiftyFeetAnimated.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="452" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Lippo_Center.obj" locked="0" hidden="0"/>
+      <point latitude="22.279491875" longitude="114.163307774" heading="0.0"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Lippo_Center.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="454" parent_id="58">
+      <children/>
+      <hierarchy name="Container_Ship_2.obj" locked="0" hidden="0"/>
+      <point latitude="22.325219348" longitude="114.126862078" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Container_Ship_2.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="456" parent_id="58">
+      <children/>
+      <hierarchy name="Container_Ship_1.obj" locked="0" hidden="0"/>
+      <point latitude="22.336910143" longitude="114.115882258" heading="342.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Container_Ship_1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="458" parent_id="58">
+      <children/>
+      <hierarchy name="Container_Ship_1.obj" locked="0" hidden="0"/>
+      <point latitude="22.340573739" longitude="114.114703021" heading="163.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Container_Ship_1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="460" parent_id="58">
+      <children/>
+      <hierarchy name="Container_Ship_1.obj" locked="0" hidden="0"/>
+      <point latitude="22.347826066" longitude="114.117850195" heading="252.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="MisterX_Library/Vehicles/Ships/Container_Ship_1.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="462" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.309276532" longitude="114.155941482" heading="272.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="464" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.309541657" longitude="114.154699302" heading="264.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="466" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.306904231" longitude="114.154615854" heading="266.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="468" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.312560559" longitude="114.154715515" heading="266.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="470" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.308638037" longitude="114.156559949" heading="270.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+    <object class="WED_ObjPlacement" id="472" parent_id="58">
+      <children/>
+      <hierarchy name="V2.0_Barge.obj" locked="0" hidden="0"/>
+      <point latitude="22.313377871" longitude="114.156422618" heading="268.00"/>
+      <obj_placement custom_msl="0" msl="0.0" resource="objects/V2.0_Barge.obj" show_level="1 Default"/>
+    </object>
+  </objects>
+  <prefs>
+    <pref name="PropertyPane0/Closed">
+      <item value="7"/>
+      <item value="17"/>
+      <item value="58"/>
+    </pref>
+    <pref name="doc/export_target" value="4"/>
+    <pref name="doc/xml_compatibility" value="203"/>
+    <pref name="map/east" value="114.293703"/>
+    <pref name="map/navaid_map_vis" value="0"/>
+    <pref name="map/north" value="22.446705"/>
+    <pref name="map/obj_density" value="4"/>
+    <pref name="map/pavement_alpha" value="4"/>
+    <pref name="map/preview_vis" value="1"/>
+    <pref name="map/real_lines_vis" value="1"/>
+    <pref name="map/slippy_vis" value="2"/>
+    <pref name="map/south" value="22.106285"/>
+    <pref name="map/vertices_vis" value="1"/>
+    <pref name="map/west" value="113.927896"/>
+    <pref name="map/world_map_vis" value="1"/>
+    <pref name="map_Airport Beacon_Kind" value="69"/>
+    <pref name="map_Boundary_.Markings" value=""/>
+    <pref name="map_Boundary_Lights" value=""/>
+    <pref name="map_Boundary_Markings" value=""/>
+    <pref name="map_Exclusions_Exclusions" value="111,112,115,116,117"/>
+    <pref name="map_Facades_Height" value="10.000000"/>
+    <pref name="map_Facades_Pick Walls" value="0"/>
+    <pref name="map_Facades_Resource" value="lib/airport/Ramp_Equipment/Jet_Blast_Shield.fac"/>
+    <pref name="map_Forests_Density" value="1.000000"/>
+    <pref name="map_Forests_Resource" value="simheaven/landmarks/sailing-boats.for"/>
+    <pref name="map_Helipad_Edge Lights" value="15"/>
+    <pref name="map_Helipad_Markings" value="67"/>
+    <pref name="map_Helipad_Roughness" value="0.000000"/>
+    <pref name="map_Helipad_Shoulder" value="56"/>
+    <pref name="map_Helipad_Surface" value="26"/>
+    <pref name="map_Hole_.Markings" value=""/>
+    <pref name="map_Hole_Lights" value=""/>
+    <pref name="map_Hole_Markings" value=""/>
+    <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
+    <pref name="map_Light Fixture_Fixture Type" value="35"/>
+    <pref name="map_Lines_Resource" value="lib/airport/lines/59_double_parking_b.lin"/>
+    <pref name="map_Objects_Object" value="objects/architecture_tower-apobj_twr_02.obj"/>
+    <pref name="map_Objects_Show with" value="746"/>
+    <pref name="map_Polygons_Heading" value="30.000000"/>
+    <pref name="map_Polygons_Resource" value="lib/airport/pavement/asphalt_4L.pol"/>
+    <pref name="map_Polygons_Use Texture Map - Orthophoto" value="0"/>
+    <pref name="map_Ramp Start_Airlines" value=""/>
+    <pref name="map_Ramp Start_Equipment Type" value="130"/>
+    <pref name="map_Ramp Start_Ramp Operation Type" value="694"/>
+    <pref name="map_Ramp Start_Ramp Start Type" value="140"/>
+    <pref name="map_Ramp Start_Size" value="688"/>
+    <pref name="map_Runway_Appch" value="51"/>
+    <pref name="map_Runway_Center" value="1"/>
+    <pref name="map_Runway_Dist" value="1"/>
+    <pref name="map_Runway_Edge" value="7"/>
+    <pref name="map_Runway_Marks" value="63"/>
+    <pref name="map_Runway_REIL" value="11"/>
+    <pref name="map_Runway_Rough" value="0.000000"/>
+    <pref name="map_Runway_Shoulder" value="57"/>
+    <pref name="map_Runway_Surface" value="25"/>
+    <pref name="map_Runway_TDZL" value="0"/>
+    <pref name="map_Sealane_Buoys" value="1"/>
+    <pref name="map_Sign_Size" value="19"/>
+    <pref name="map_Sign_Style" value="23"/>
+    <pref name="map_Sign_Text" value="{@L}Z1{@R}10R"/>
+    <pref name="map_Strings_Resource" value="MisterX_Library/Airport/Fences_Barriers/Barriers_mixed.str"/>
+    <pref name="map_Strings_Spacing" value="5.000000"/>
+    <pref name="map_Taxi Routes_." value="689"/>
+    <pref name="map_Taxi Routes_Allowed Vehicles" value="145"/>
+    <pref name="map_Taxi Routes_Name" value="D3"/>
+    <pref name="map_Taxi Routes_Oneway" value="0"/>
+    <pref name="map_Taxi Routes_Slop" value="30"/>
+    <pref name="map_Taxilines_.Markings" value="96,780"/>
+    <pref name="map_Taxilines_Lights" value="96"/>
+    <pref name="map_Taxilines_Markings" value="780"/>
+    <pref name="map_Taxiway_.Markings" value=""/>
+    <pref name="map_Taxiway_Heading" value="0.000000"/>
+    <pref name="map_Taxiway_Lights" value=""/>
+    <pref name="map_Taxiway_Markings" value=""/>
+    <pref name="map_Taxiway_Pavement" value="25"/>
+    <pref name="map_Taxiway_Roughness" value="0.000000"/>
+    <pref name="map_Tower Viewpoint_Tower Height" value="25.000000"/>
+    <pref name="map_Truck Destination_Truck Types" value="147,148,149,150,151,152,153,154,155,156,157"/>
+    <pref name="map_Truck Parking_." value="3"/>
+    <pref name="map_Truck Parking_Truck Type" value="157"/>
+    <pref name="map_Vertex_Snap To Vertices" value="0"/>
+    <pref name="map_Windsock_Lit" value="0"/>
+    <pref name="window/height" value="725"/>
+    <pref name="window/main_split" value="282"/>
+    <pref name="window/main_split2" value="1047"/>
+    <pref name="window/prev_split" value="356"/>
+    <pref name="window/prop_split" value="478"/>
+    <pref name="window/width" value="1366"/>
+    <pref name="window/x_loc" value="-8"/>
+    <pref name="window/y_loc" value="-8"/>
+  </prefs>
+</doc>
